@@ -1,5 +1,4 @@
 # Name = Muhammad Imran
-# Student ID = 24821222
 
 # Importing required libraries
 # for validating email using regular expression
